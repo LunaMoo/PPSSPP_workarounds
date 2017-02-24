@@ -38,6 +38,5 @@ List of game workarounds currently included:
 - Senjou no Valkyria 3 E2 (black sky fix), [ULJM-05957], [ULJM-05781 english patch for E2 which uses incorrect ID]
 - Sonic Rivals (fix graphics with slow effects disabled for speed), [ULES-00622]
 - Sonic Rivals 2 (fix graphics with slow effects disabled for speed), [ULES-00940]
-- Ultimate Ghosts 'n Goblins (fix memory leak), [ULES-00419]
 - Valkyria Chronicles II (black sky fix), [ULUS-10515]
 - Zettai Zetsumei Toshi 3 (pass character selection screen). [ULJS-00191]
