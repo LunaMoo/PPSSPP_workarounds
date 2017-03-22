@@ -33,6 +33,7 @@ List of game workarounds currently included:
 - Monster Hunter Portable 3rd HD Ver. (synchronize savedata with savestate made earlier), [NPJB-40001]
 - Ore no Dungeon (hide some glitchy graphics), [ULJM-05167]
 - Patapon 3 (synchronize savedata with savestate made earlier), [UCUS-98751]
+- Sakura Taisen 1 & 2 (remove some effects which can eat ~ 6gb of vram), [ULJM-05109]
 - Samurai Shodown Anthology (remove magnification filter glitching SSVI), [ULUS-10401]
 - San Goku Shi IX with Power-Up Kit (black background fix), [ULJM-05842]
 - Senjou no Valkyria 3 E2 (black sky fix), [ULJM-05957], [ULJM-05781 english patch for E2 which uses incorrect ID]
