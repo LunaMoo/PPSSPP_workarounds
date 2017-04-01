@@ -25,6 +25,7 @@ List of game workarounds currently included:
 - Macross Triangle Frontier (fix geometry), [ULJS-00321]
 - Macross Ultimate Frontier (fix geometry), [NPJH-50050]
 - Me & My Katamari (remove glitchy effect), [ULUS-10094]
+- Mega Man Powered Up (movement mods), [ULES-00307]
 - Metal Gear Solid: Peace Walker (simulates recruit discovery), [ULUS-10509]
 - Monster Hunter Freedom (synchronize savedata with savestate made earlier), [ULES-00318],[ULUS-10084]
 - Monster Hunter Freedom Unite (synchronize savedata with savestate made earlier), [ULES-01213]
