@@ -18,6 +18,7 @@ List of game workarounds currently included:
 - Bleach: Soul Carnival 2 (fix freeze), [UCJS-10106], [UCAS-40297 ? unsure/user I made it for only said "chinese version"]
 - Carnage Heart EXA (hide some UI glitches), [NPEH-00154]
 - Castlevania: The Dracula X Chronicles (resolution patches), [ULES-00841]
+- Driver 76 (removes spiky vertices), [ULES-00740]
 - Final Fantasy Tactics: The War of the Lions (battle animation and original resolution patches), [ULES-00850]
 - Final Fantasy Type 0 (remove blur in cutscenes to fix Emina scenes), [NPJH-50443], [NPJH-50444]
 - Gundam Assault Survive (fix geometry), [ULJS-00281]
