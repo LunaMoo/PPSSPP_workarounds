@@ -42,4 +42,5 @@ List of game workarounds currently included:
 - Sonic Rivals (fix graphics with slow effects disabled for speed), [ULES-00622]
 - Sonic Rivals 2 (fix graphics with slow effects disabled for speed), [ULES-00940]
 - Valkyria Chronicles II (black sky fix), [ULUS-10515]
+- Valkyrie Profile: Lenneth (credits movie freeze workaround), [ULUS-10107]
 - Zettai Zetsumei Toshi 3 (pass character selection screen). [ULJS-00191]
