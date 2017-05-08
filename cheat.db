@@ -717,3 +717,10 @@ _C0 Credits Movie Freeze workaround [Disable]
 _L 0xE0020800 0x00004248
 _L 0x20004248 0x5604FFC3
 _L 0x2000424C 0x92020005
+_S ULUS-10249
+_G Test Drive Unlimited
+_C0 (Requires restart)
+_C0 Remove slow and ugly effect
+_L 0xE0020406 0x002DC218
+_L 0x202DC218 0x00003021
+_L 0x202DC21C 0x00000000

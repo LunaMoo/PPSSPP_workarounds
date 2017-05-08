@@ -41,6 +41,7 @@ List of game workarounds currently included:
 - Senjou no Valkyria 3 E2 (black sky fix), [ULJM-05957], [ULJM-05781 english patch for E2 which uses incorrect ID]
 - Sonic Rivals (fix graphics with slow effects disabled for speed), [ULES-00622]
 - Sonic Rivals 2 (fix graphics with slow effects disabled for speed), [ULES-00940]
+- Test Drive Unlimited (remove ugly&slow effect), [ULUS-10249]
 - Valkyria Chronicles II (black sky fix), [ULUS-10515]
 - Valkyrie Profile: Lenneth (credits movie freeze workaround), [ULUS-10107]
 - Zettai Zetsumei Toshi 3 (pass character selection screen). [ULJS-00191]
