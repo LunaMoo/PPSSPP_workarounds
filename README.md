@@ -42,6 +42,7 @@ List of game workarounds currently included:
 - Sonic Rivals (fix graphics with slow effects disabled for speed), [ULES-00622]
 - Sonic Rivals 2 (fix graphics with slow effects disabled for speed), [ULES-00940]
 - Test Drive Unlimited (remove ugly&slow effect), [ULUS-10249]
+- Tony Hawk's Underground 2 Remix (JIT crash fix), [ULES-00033]
 - Valkyria Chronicles II (black sky fix), [ULUS-10515]
 - Valkyrie Profile: Lenneth (credits movie freeze workaround), [ULUS-10107]
 - Zettai Zetsumei Toshi 3 (pass character selection screen). [ULJS-00191]
