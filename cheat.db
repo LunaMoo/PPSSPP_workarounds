@@ -24,7 +24,7 @@ _L 0xE0011821 0x0008CE7C
 _L 0x2008CE7C 0x90830000
 _S NPJH-50050
 _G Macross Ultimate Frontier
-_C0 Requires restart
+_C0 (Requires restart)
 _C0 Geometry bug workaround
 _L 0xE00800E4 0x0001EED4
 _L 0x2001EED0 0x0A200004
@@ -37,7 +37,7 @@ _L 0x20000020 0x0A207BB7
 _L 0x20000024 0xDD0600E4
 _S ULJS-00321
 _G Macross Triangle Frontier
-_C0 Requires restart
+_C0 (Requires restart)
 _C0 Geometry bug workaround
 _L 0xE00800E4 0x0001ABA8
 _L 0x2001ABA4 0x0A200004
@@ -50,7 +50,7 @@ _L 0x20000020 0x0A206AEC
 _L 0x20000024 0xDD0600E4
 _S ULJS-00281
 _G Gundam Assault Survive
-_C0 Requires restart
+_C0 (Requires restart)
 _C0 Geometry bug workaround
 _L 0xE00800E4 0x0001F1BC
 _L 0x2001F1B8 0x0A200004
@@ -63,7 +63,7 @@ _L 0x20000020 0x0A207C71
 _L 0x20000024 0xDD0600E4
 _S NPJH-50720
 _G Battle Robot Damashii
-_C0 Requires restart
+_C0 (Requires restart)
 _C0 Geometry bug workaround
 _L 0xE00800E4 0x0001EEE8
 _L 0x2001EEE4 0x0A200004
@@ -129,8 +129,8 @@ _L 0xE0010228 0x0002E3D4
 _L 0x2002E3D4 0x10000228
 _S ULES-00622
 _G Sonic Rivals
-_C0 Use with slow effects disabled
-_C0 Requires restart
+_C0 (Use with slow effects disabled)
+_C0 (Requires restart)
 _C0 Graphic Workaround
 _L 0xE003FFFF 0x0012AA00
 _L 0x2012AA00 0x0000C821
@@ -138,8 +138,8 @@ _L 0x2012AA04 0x2442FF88
 _L 0x2000BA58 0x00005021
 _S ULES-00940
 _G Sonic Rivals 2
-_C0 Use with slow effects disabled
-_C0 Requires restart
+_C0 (Use with slow effects disabled)
+_C0 (Requires restart)
 _C0 Graphic Workaround
 _L 0xE003FFFF 0x00169084
 _L 0x20169084 0x0000C821
@@ -147,12 +147,12 @@ _L 0x20169088 0x2442FF88
 _L 0x2000BCD0 0x00005021
 _S ULES-00640
 _G Activision Hits Remixed
-_C0 Use with slow effects disabled
-_C0 Requires restart
+_C0 (Use with slow effects disabled)
+_C0 (Requires restart)
 _C0 Graphics workaround
 _L 0xE001FFFF 0x00010334
 _L 0x20010334 0x0000C821
-_C0 You can use multithreading instead
+_C0 (You can use multithreading instead)
 _C0 Freeze Workaround
 _L 0XE0060001 0x0000F9EC
 _L 0x2000F9EC 0x00005821
@@ -475,7 +475,7 @@ _L 0x2008DE8C 0x00822021
 _L 0x2008DEB0 0x8CC31464
 _S ULES-00841
 _G Castlevania: The Dracula X Chronicles
-_C0 Requires restart and display size - full
+_C0 (Requires restart and display size - full)
 _C0 Symphony of the Night original res
 _L 0xE0100001 0x0010000C
 _L 0xE00F0100 0x1011D8CC
@@ -584,6 +584,7 @@ _L 0xE0010400 0x00102B00
 _L 0x20102B00 0xAD2B0000
 _S ULES-00307
 _G Megaman Powered Up
+_C0 (Hold L or R to restore old movement)
 _C0 Movement Mod
 _L 0xE00E0014 0x0012F0D8
 _L 0x2012F0D8 0x0E200440
@@ -600,7 +601,6 @@ _L 0x20001124 0x54E00001
 _L 0x20001128 0xE60C03C0
 _L 0x2000112C 0x03E00008
 _L 0x20001130 0x00000000
-_C0 Hold L or R to restore old movement
 _C0 Movement Mod [Disable]
 _L 0x2012F0D8 0x8FA50014
 _L 0x2005A43C 0xE60C03C0
@@ -726,7 +726,7 @@ _L 0x202DC218 0x00003021
 _L 0x202DC21C 0x00000000
 _S ULES-00033
 _G Tony Hawk's Underground 2 Remix
-_C0 Set refresh rate to small number
+_C0 (Set refresh rate to small number)
 _C0 JIT refresh
 _L 0xE0000000 0x00065668
 _L 0xE0000000 0x000655D8
@@ -747,3 +747,26 @@ _L 0xE0000000 0x00065610
 _L 0xE0000000 0x00065614
 _L 0xE0000000 0x00065618
 _L 0xE0000000 0x0006561C
+_S ULUS-10014
+_G Tony Hawk's Underground 2 Remix
+_C0 (Set refresh rate to small number)
+_C0 JIT refresh
+_L 0xE0000000 0x00065690
+_L 0xE0000000 0x00065600
+_L 0xE0000000 0x00065604
+_L 0xE0000000 0x00065608
+_L 0xE0000000 0x0006560C
+_L 0xE0000000 0x00065610
+_L 0xE0000000 0x00065614
+_L 0xE0000000 0x00065618
+_L 0xE0000000 0x0006561C
+_L 0xE0000000 0x00065620
+_L 0xE0000000 0x00065624
+_L 0xE0000000 0x00065628
+_L 0xE0000000 0x0006562C
+_L 0xE0000000 0x00065630
+_L 0xE0000000 0x00065634
+_L 0xE0000000 0x00065638
+_L 0xE0000000 0x0006563C
+_L 0xE0000000 0x00065640
+_L 0xE0000000 0x00065644
