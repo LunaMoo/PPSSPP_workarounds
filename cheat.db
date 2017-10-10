@@ -882,4 +882,13 @@ _C0 Remove Bezier 4x4 & 4x8 [Disable]
 _L 0xE0022821 0x0018628C
 _L 0x2018628C 0x24850404
 _L 0x20186308 0x24850804
+_S ULES-01161
+_G Imagine Champion Rider
+_C0 Unlock fps
+_L 0xE001FFF7 0x001F21C8
+_L 0x201F21C8 0x00000000
+_C0 (you can also increase emulated PSP cpu clock)
+_C0 Unlock fps [Disable]
+_L 0xE0010000 0x001F21C8
+_L 0x201F21C8 0x1000FFF7
 _S END - LIST

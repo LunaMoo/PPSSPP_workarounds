@@ -24,6 +24,7 @@ List of game workarounds currently included:
 - Final Fantasy Type 0 (remove blur in cutscenes to fix Emina scenes), [NPJH-50443], [NPJH-50444]
 - Gundam Assault Survive (fix geometry), [ULJS-00281]
 - Hokuto no Ken: Raoh Gaiden - Ten no Haoh (display otherwise missing 2D graphics), [ULJM-05404]
+- Imagine Champion Rider (unlock fps), [ULES-01161]
 - Kenka Bancho Badass Rumble(remove ugly barriers), [ULUS-10442]
 - Kenka Bancho 4: Ichinen Sensou(remove ugly barriers), [ULJS-00268]
 - Macross Triangle Frontier (fix geometry), [ULJS-00321]
