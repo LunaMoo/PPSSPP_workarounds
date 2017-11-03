@@ -98,6 +98,14 @@ _L 0x202A4AE4 0x34070001
 _C0 Hang Workaround [Disable]
 _L 0xE0010001 0x002A4AE4
 _L 0x202A4AE4 0x28A70003
+_S ULJM-05492
+_G Armored Core 3 Portable
+_C0 Hang Workaround
+_L 0xE0010003 0x002259A4
+_L 0x202259A4 0x34070001
+_C0 Hang Workaround [Disable]
+_L 0xE0010001 0x002259A4
+_L 0x202259A4 0x28A70003
 _S NPUH-10023
 _G Armored Core 3 Portable
 _C0 Hang Workaround

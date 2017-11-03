@@ -8,7 +8,7 @@ Might not have all stuff, I'm dumping those hacks here exactly because loosing t
 
 List of game workarounds currently included:
 - Activision Hits Remixed (fix graphics with slow effects disabled for speed also boot fix), [ULES-00640]
-- Armored Core 3 Portable (fix freeze), [NPUH-10023]
+- Armored Core 3 Portable (fix freeze), [NPUH-10023], [ULJM-05492]
 - Armored Core: Last Raven Portable (fix freeze), [NPUH-10024]
 - Armored Core: Silent Line Portable (fix freeze), [NPUH-10025]
 - Assassin's Creed: Bloodlines (PS3 Connectivity, fix save data loading), [ULES-01367]
