@@ -34,6 +34,7 @@ List of game workarounds currently included:
 - Metal Gear Solid: Peace Walker (simulates recruit discovery), [ULUS-10509]
 - Mighty Flip Champs DX (set volume to max), [NPUZ-00238]
 - Monster Hunter Freedom (synchronize savedata with savestate made earlier), [ULES-00318], [ULUS-10084]
+- Monster Hunter Freedom 2 (synchronize savedata with savestate made earlier), [ULES-00851], [ULUS-10266]
 - Monster Hunter Freedom Unite (synchronize savedata with savestate made earlier), [ULES-01213], [ULUS-10391]
 - Monster Hunter Portable 2nd G (synchronize savedata with savestate made earlier), [ULJM-05500]
 - Monster Hunter Portable 3rd (synchronize savedata with savestate made earlier), [ULJM-05800]
