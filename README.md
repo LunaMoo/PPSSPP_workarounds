@@ -4,7 +4,7 @@ Just a dump of few cwcheat hacks made to workaround some games problems.
 For use with PPSSPP v1.3-604-g9ed55f2 or newer, simply enable cheats, dump cheat.db into your memstick/PSP/Cheats folder("memstick" location will differ depending on platform) then use "Import from cheat.db" from inside PPSSPP cheat menu. In older PPSSPP versions you might need to manually copy those cheats since importing was partialy broken.
 Note: [Disable] cheats are restoring original game code, if there's no [Disable] cheat, you have to restart emulation after unchecking the cheat to revert it's changes.
 
-Might not have all stuff, I'm dumping those hacks here exactly because loosing track of how many I made;p. Also this will have only fixes/workarounds, no enhancements like LOD/FPS/Right Analog/etc., since I don't want to mix potentially unsafe patches here:]. Also note while I might refer to many of those patches as fixes, they merely breaking games to match broken emulation(two negative into positive kind of thing;p), breaking bad design choices that causes problems or simulate unimplemented stuff.
+Might not have all stuff, I'm dumping those hacks here exactly because loosing track of how many I made;p. Also this will have only fixes/workarounds, no enhancements like LOD/FPS/Right Analog/etc.(exceptions for enhancements that works around problems), since I don't want to mix potentially unsafe patches here:]. Also note while I might refer to many of those patches as fixes, they merely breaking games to match broken emulation(two negative into positive kind of thing;p), breaking bad design choices that causes problems or simulate unimplemented stuff.
 
 List of game workarounds currently included:
 - Activision Hits Remixed (fix graphics with slow effects disabled for speed also boot fix), [ULES-00640]
@@ -51,6 +51,7 @@ List of game workarounds currently included:
 - Sonic Rivals (fix graphics with slow effects disabled for speed), [ULES-00622]
 - Sonic Rivals 2 (fix graphics with slow effects disabled for speed), [ULES-00940]
 - Test Drive Unlimited (remove ugly&slow effect), [ULUS-10249]
+- Tokyo Mono Harashi: Karasu no Mori Gakuen Kitan(improve framerate), [NPJH-50215]
 - Tony Hawk's Underground 2 Remix (JIT crash fix), [ULES-00033], [ULUS-10014]
 - Valkyria Chronicles II (black sky fix), [ULUS-10515]
 - Valkyrie Profile: Lenneth (credits movie freeze workaround), [ULUS-10107]
