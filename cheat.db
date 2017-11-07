@@ -967,4 +967,36 @@ _L 0x2035A838 0x00002021
 _C0 Remove glitchy effect [Disable]
 _L 0xE0012021 0x0035A838
 _L 0x2035A838 0x24840002
+_S ULES-00564
+_G Ford Street Racing L.A. Duel
+_C0 Remove glitchy effect
+_L 0xE0010002 0x000142F4
+_L 0x200142F4 0x0000C021
+_C0 Remove glitchy effect [Disable]
+_L 0xE001C021 0x000142F4
+_L 0x200142F4 0x37380002
+_S ULES-00588
+_G Ford Street Racing - XR Edition
+_C0 Remove glitchy effect
+_L 0xE0010002 0x00014234
+_L 0x20014234 0x0000C021
+_C0 Remove glitchy effect [Disable]
+_L 0xE001C021 0x00014234
+_L 0x20014234 0x37380002
+_S ULUS-10159
+_G Ford Bold Moves Street Racing
+_C0 Remove glitchy effect
+_L 0xE0010002 0x00014248
+_L 0x20014248 0x0000C021
+_C0 Remove glitchy effect [Disable]
+_L 0xE001C021 0x00014248
+_L 0x20014248 0x37380002
+_S ULUS-10326
+_G Ford Racing Off Road
+_C0 Remove glitchy effect
+_L 0xE0010002 0x000145C8
+_L 0x200145C8 0x0000C021
+_C0 Remove glitchy effect [Disable]
+_L 0xE001C021 0x000145C8
+_L 0x200145C8 0x37380002
 _S END - LIST

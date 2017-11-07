@@ -24,6 +24,8 @@ List of game workarounds currently included:
 - Driver 76 (removes spiky vertices), [ULES-00740]
 - Final Fantasy Tactics: The War of the Lions (battle animation and original resolution patches), [ULES-00850]
 - Final Fantasy Type 0 (remove blur in cutscenes to fix Emina scenes), [NPJH-50443], [NPJH-50444]
+- Ford Racing Off Road (removes fog), [ULES-10326]
+- Ford Street Racing(L.A. Duel, XR Edition, Bold Moves) (removes fog), [ULES-00564], [ULES-00588], [ULUS-10159]
 - Gundam Assault Survive (fix geometry), [ULJS-00281]
 - Hokuto no Ken: Raoh Gaiden - Ten no Haoh (display otherwise missing 2D graphics), [ULJM-05404]
 - Imagine Champion Rider (unlock fps), [ULES-01161]
