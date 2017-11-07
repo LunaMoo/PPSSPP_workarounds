@@ -959,4 +959,12 @@ _L 0x2001513C 0x34020001
 _C0 Improve Framerate [Disable]
 _L 0xE0010001 0x0001513C
 _L 0x2001513C 0x8E020008
+_S ULES-00928
+_G Juiced 2: Hot Import Nights
+_C0 Remove glitchy effect
+_L 0xE0010002 0x0035A838
+_L 0x2035A838 0x00002021
+_C0 Remove glitchy effect [Disable]
+_L 0xE0012021 0x0035A838
+_L 0x2035A838 0x24840002
 _S END - LIST
