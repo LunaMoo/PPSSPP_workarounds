@@ -16,6 +16,8 @@ List of game workarounds currently included:
 - Battle Robot Damashii (fix geometry), [NPJH-50720]
 - Bleach: Soul Carnival (fix freeze), [UCJS-10085]
 - Bleach: Soul Carnival 2 (fix freeze), [UCJS-10106], [UCAS-40297 ? unsure/user I made it for only said "chinese version"]
+- Blitz: Overtime (fix fps), [ULUS-10200]
+- Brian Lara 2007: Pressure Play (fix fps), [ULES-00814]
 - Carnage Heart EXA (hide some UI glitches), [NPEH-00154]
 - Castlevania: The Dracula X Chronicles (resolution patches and SotN Richter brandish whip fix), [ULES-00841]
 - Colin McRae Rally 2005 Plus (fix lens flare), [ULES-00111]
