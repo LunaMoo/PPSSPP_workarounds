@@ -53,6 +53,7 @@ List of game workarounds currently included:
 - Senjou no Valkyria 3 E2 (black sky fix), [ULJM-05957], [ULJM-05781 english patch for E2 which uses incorrect ID]
 - Sonic Rivals (fix graphics with slow effects disabled for speed), [ULES-00622]
 - Sonic Rivals 2 (fix graphics with slow effects disabled for speed), [ULES-00940]
+- Spider-Man: Friend or Foe (workarounds loading savedata loop), [ULUS-10318]
 - Test Drive Unlimited (remove ugly&slow effect), [ULUS-10249]
 - Tokyo Mono Harashi: Karasu no Mori Gakuen Kitan(improve framerate), [NPJH-50215]
 - Tony Hawk's Underground 2 Remix (JIT crash fix), [ULES-00033], [ULUS-10014]
