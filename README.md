@@ -44,6 +44,7 @@ List of game workarounds currently included:
 - Monster Hunter Portable 2nd G (synchronize savedata with savestate made earlier), [ULJM-05500]
 - Monster Hunter Portable 3rd (synchronize savedata with savestate made earlier), [ULJM-05800]
 - Monster Hunter Portable 3rd HD Ver. (synchronize savedata with savestate made earlier), [NPJB-40001]
+- MTX Mototrax (invalidates JIT to fix crashes), [ULUS-10138]
 - n+ (drop down volume to hearable levels), [ULUS-10340]
 - Ore no Dungeon (hide some glitchy graphics), [ULJM-05167]
 - Patapon 3 (synchronize savedata with savestate made earlier), [UCUS-98751]
