@@ -4,7 +4,7 @@ Just a dump of few cwcheat hacks made to workaround some games problems.
 For use with PPSSPP v1.3-604-g9ed55f2 or newer, simply enable cheats, dump cheat.db into your memstick/PSP/Cheats folder("memstick" location will differ depending on platform) then use "Import from cheat.db" from inside PPSSPP cheat menu. In older PPSSPP versions you might need to manually copy those cheats since importing was partialy broken.
 Note: [Disable] cheats are restoring original game code, if there's no [Disable] cheat, you have to restart emulation after unchecking the cheat to revert it's changes.
 
-Might not have all stuff, I'm dumping those hacks here exactly because loosing track of how many I made;p. Also this will have only fixes/workarounds, maybe some safer or workaroundish enhancements ~ even through I made quite a few I don't want stuff like 60 fps patches to properly working games here as they often ruin timing and cause issues that are not immediately detected, if the game is already ruined by single digit and the only way is to unlock, sure:]. Also note while I might refer to many of those patches as fixes, they merely breaking games to match broken emulation(two negative into positive kind of thing;p), breaking bad design choices that causes problems or simulate unimplemented stuff.
+Might not have all stuff, I'm dumping those hacks here exactly because loosing track of how many I made;p. Also this will have only fixes/workarounds, maybe some safer or workaroundish enhancements ~ I'm still disliking 60 fps patches as they often ruin timing and cause issues that are not immediately detected, but I guess I might be ok adding few from games I played more or for games that are otherwise broken:]. Also note while I might refer to many of those patches as fixes, they merely breaking games to match broken emulation(two negative into positive kind of thing;p), breaking bad design choices that causes problems or simulate unimplemented stuff.
 
 List of game workarounds currently included:
 - Activision Hits Remixed (fix graphics with slow effects disabled for speed also boot fix), [ULES-00640]
@@ -20,15 +20,18 @@ List of game workarounds currently included:
 - Brian Lara 2007: Pressure Play (fix fps), [ULES-00814]
 - Carnage Heart EXA (hide some UI glitches), [NPEH-00154]
 - Castlevania: The Dracula X Chronicles (resolution patches and SotN Richter brandish whip fix), [ULES-00841]
+- CODED ARMS (Right Analog Aim), [ULUS-10019]
 - Colin McRae Rally 2005 Plus (fix lens flare), [ULES-00111]
 - Driver 76 (removes spiky vertices), [ULES-00740]
 - Final Fantasy Tactics: The War of the Lions (battle animation and original resolution patches), [ULES-00850]
 - Final Fantasy Type 0 (remove blur in cutscenes to fix Emina scenes), [NPJH-50443], [NPJH-50444]
 - Ford Racing Off Road (removes fog), [ULES-10326]
 - Ford Street Racing(L.A. Duel, XR Edition, Bold Moves) (removes fog), [ULES-00564], [ULES-00588], [ULUS-10159]
+- Ghost in the Shell: Stand Alone Complex (Right Analog Aim and 60 fps to be used with), [ULUS-10020]
 - Gundam Assault Survive (fix geometry), [ULJS-00281]
 - Hokuto no Ken: Raoh Gaiden - Ten no Haoh (display otherwise missing 2D graphics), [ULJM-05404]
 - Imagine Champion Rider (unlock fps), [ULES-01161]
+- Initial D: Street Stage (Right Analog Acceleration), [ULJM-05093]
 - Juiced 2: Hot Import Nights (remove glitchy effect), [ULES-00928]
 - Kenka Bancho Badass Rumble(remove ugly barriers), [ULUS-10442]
 - Kenka Bancho 4: Ichinen Sensou(remove ugly barriers), [ULJS-00268]
@@ -36,7 +39,8 @@ List of game workarounds currently included:
 - Macross Ultimate Frontier (fix geometry), [NPJH-50050]
 - Me & My Katamari (remove glitchy effect), [ULUS-10094]
 - Mega Man Powered Up (movement mods), [ULES-00307]
-- Metal Gear Solid: Peace Walker (simulates recruit discovery), [ULUS-10509]
+- Metal Gear Solid: Peace Walker (simulates recruit discovery, Right Analog Aim with more control, some t-shirts), [ULUS-10509]
+- Metal Gear Solid: Peace Walker (Right Analog Aim with more control), [ULES-01372]
 - Mighty Flip Champs DX (set volume to max), [NPUZ-00238]
 - Monster Hunter Freedom (synchronize savedata with savestate made earlier), [ULES-00318], [ULUS-10084]
 - Monster Hunter Freedom 2 (synchronize savedata with savestate made earlier), [ULES-00851], [ULUS-10266]
