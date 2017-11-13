@@ -4,14 +4,14 @@ Just a dump of few cwcheat hacks made to workaround some games problems.
 For use with PPSSPP v1.3-604-g9ed55f2 or newer, simply enable cheats, dump cheat.db into your memstick/PSP/Cheats folder("memstick" location will differ depending on platform) then use "Import from cheat.db" from inside PPSSPP cheat menu. In older PPSSPP versions you might need to manually copy those cheats since importing was partialy broken.
 Note: [Disable] cheats are restoring original game code, if there's no [Disable] cheat, you have to restart emulation after unchecking the cheat to revert it's changes.
 
-Might not have all stuff, I'm dumping those hacks here exactly because loosing track of how many I made;p. Also this will have only fixes/workarounds, no enhancements like LOD/FPS/Right Analog/etc.(exceptions for enhancements that works around problems), since I don't want to mix potentially unsafe patches here:]. Also note while I might refer to many of those patches as fixes, they merely breaking games to match broken emulation(two negative into positive kind of thing;p), breaking bad design choices that causes problems or simulate unimplemented stuff.
+Might not have all stuff, I'm dumping those hacks here exactly because loosing track of how many I made;p. Also this will have only fixes/workarounds, maybe some safer or workaroundish enhancements ~ even through I made quite a few I don't want stuff like 60 fps patches to properly working games here as they often ruin timing and cause issues that are not immediately detected, if the game is already ruined by single digit and the only way is to unlock, sure:]. Also note while I might refer to many of those patches as fixes, they merely breaking games to match broken emulation(two negative into positive kind of thing;p), breaking bad design choices that causes problems or simulate unimplemented stuff.
 
 List of game workarounds currently included:
 - Activision Hits Remixed (fix graphics with slow effects disabled for speed also boot fix), [ULES-00640]
 - Armored Core 3 Portable (fix freeze), [NPUH-10023], [ULJM-05492]
 - Armored Core: Last Raven Portable (fix freeze), [NPUH-10024]
 - Armored Core: Silent Line Portable (fix freeze), [NPUH-10025]
-- Assassin's Creed: Bloodlines (PS3 Connectivity, fix save data loading), [ULES-01367]
+- Assassin's Creed: Bloodlines (PS3 Connectivity, fix save data loading, LOD patch), [ULES-01367], [NPEH-00029]
 - Auditorium (fix black screen), [NPUH-10069]
 - Battle Robot Damashii (fix geometry), [NPJH-50720]
 - Bleach: Soul Carnival (fix freeze), [UCJS-10085]
@@ -51,13 +51,13 @@ List of game workarounds currently included:
 - Sakura Taisen 1 & 2 (remove some effects which can eat ~ 6gb of vram), [ULJM-05109]
 - Samurai Shodown Anthology (remove magnification filter glitching SSVI), [ULUS-10401]
 - San Goku Shi IX with Power-Up Kit (black background fix), [ULJM-05842]
-- Senjou no Valkyria 3 E2 (black sky fix), [ULJM-05957], [ULJM-05781 english patch for E2 which uses incorrect ID]
+- Senjou no Valkyria 3 E2 (black sky fix, LOD multiplier), [ULJM-05957], [ULJM-05781 english patch for E2 which uses incorrect ID]
 - Sonic Rivals (fix graphics with slow effects disabled for speed), [ULES-00622]
 - Sonic Rivals 2 (fix graphics with slow effects disabled for speed), [ULES-00940]
 - Spider-Man: Friend or Foe (workarounds loading savedata loop), [ULUS-10318]
 - Test Drive Unlimited (remove ugly&slow effect), [ULUS-10249]
 - Tokyo Mono Harashi: Karasu no Mori Gakuen Kitan(improve framerate), [NPJH-50215]
 - Tony Hawk's Underground 2 Remix (JIT crash fix), [ULES-00033], [ULUS-10014]
-- Valkyria Chronicles II (black sky fix), [ULUS-10515]
+- Valkyria Chronicles II (black sky fix, LOD multiplier), [ULUS-10515]
 - Valkyrie Profile: Lenneth (credits movie freeze workaround), [ULUS-10107]
 - Zettai Zetsumei Toshi 3 (pass character selection screen). [ULJS-00191]
