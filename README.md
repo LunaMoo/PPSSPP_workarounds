@@ -58,6 +58,7 @@ List of game workarounds currently included:
 - Samurai Shodown Anthology (remove magnification filter glitching SSVI), [ULUS-10401]
 - San Goku Shi IX with Power-Up Kit (black background fix), [ULJM-05842]
 - Senjou no Valkyria 3 E2 (black sky fix, LOD multiplier), [ULJM-05957], [ULJM-05781 english patch for E2 which uses incorrect ID]
+- Shadow of Destiny (black sky in non-GL backends fix), [ULUS-10459]
 - Sonic Rivals (fix graphics with slow effects disabled for speed), [ULES-00622]
 - Sonic Rivals 2 (fix graphics with slow effects disabled for speed), [ULES-00940]
 - Spider-Man: Friend or Foe (workarounds loading savedata loop), [ULUS-10318]
