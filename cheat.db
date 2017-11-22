@@ -1631,6 +1631,12 @@ _L 0x2000101C 0xACA60008
 _C0 Remove glitchy effect [Disable]
 _L 0xE0010400 0x0035A834
 _L 0x2035A834 0xACA60008
+_C0 Show menu background
+_L 0xE001FFFF 0x0036CD74
+_L 0x2036CD74 0x3406FFFE
+_C0 Show menu background [Disable]
+_L 0xE001FFFE 0x0036CD74
+_L 0x2036CD74 0x3406FFFF
 _S ULES-00564
 _G Ford Street Racing L.A. Duel
 _C0 Remove glitchy effect
