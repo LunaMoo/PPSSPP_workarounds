@@ -20,6 +20,7 @@ List of game workarounds currently included:
 - Brian Lara 2007: Pressure Play (fix fps), [ULES-00814]
 - Carnage Heart EXA (hide some UI glitches), [NPEH-00154]
 - Castlevania: The Dracula X Chronicles (resolution patches and SotN Richter brandish whip fix), [ULES-00841]
+- Chikyuu Boueigun 2 Portable / EDF2 (remove ugly bloom/low res hack can't detect it:|), [ULJS-00374]
 - CODED ARMS (Right Analog Aim), [ULUS-10019]
 - Colin McRae Rally 2005 Plus (fix lens flare), [ULES-00111]
 - Driver 76 (removes spiky vertices), [ULES-00740]
