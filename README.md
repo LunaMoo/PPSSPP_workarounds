@@ -64,7 +64,7 @@ List of game workarounds currently included:
 - Sonic Rivals 2 (fix graphics with slow effects disabled for speed), [ULES-00940]
 - Spider-Man: Friend or Foe (workarounds loading savedata loop), [ULUS-10318]
 - Test Drive Unlimited (remove ugly&slow effect), [ULUS-10249]
-- The Sims 2: Castaway (remove some infinite loops), [ULUS-10296]
+- The Sims 2: Castaway (remove some infinite loops), [ULUS-10296], [ULES-00945]
 - Tokyo Mono Harashi: Karasu no Mori Gakuen Kitan(improve framerate), [NPJH-50215]
 - Tony Hawk's Underground 2 Remix (JIT crash fix), [ULES-00033], [ULUS-10014]
 - Toukiden Kiwami v1.06/1.07 (fps), [NPJH-50878]
