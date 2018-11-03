@@ -1,7 +1,7 @@
 # PPSSPP_workarounds
 Just a dump of few cwcheat hacks made to workaround some games problems.
 
-For use with PPSSPP v1.3-604-g9ed55f2 or newer, simply enable cheats, dump cheat.db into your memstick/PSP/Cheats folder("memstick" location will differ depending on platform) then use "Import from cheat.db" from inside PPSSPP cheat menu. In older PPSSPP versions you might need to manually copy those cheats since importing was partialy broken.
+For use with PPSSPP v1.7.1-28-g2704ab3ff or newer, simply enable cheats, dump cheat.db into your memstick/PSP/Cheats folder("memstick" location will differ depending on platform) then use "Import from cheat.db" from inside PPSSPP cheat menu. In older PPSSPP versions you might need to manually copy those cheats since importing was partialy broken.
 Note: [Disable] cheats are restoring original game code, if there's no [Disable] cheat, you have to restart emulation after unchecking the cheat to revert it's changes.
 
 Might not have all stuff, I'm dumping those hacks here exactly because loosing track of how many I made;p. Also this will have only fixes/workarounds, maybe some safer or workaroundish enhancements ~ I'm still disliking 60 fps patches as they often ruin timing and cause issues that are not immediately detected, but I guess I might be ok adding few from games I played more or for games that are otherwise broken:]. Also note while I might refer to many of those patches as fixes, they merely breaking games to match broken emulation(two negative into positive kind of thing;p), breaking bad design choices that causes problems or simulate unimplemented stuff.
