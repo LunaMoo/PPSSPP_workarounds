@@ -58,6 +58,7 @@ List of game workarounds currently included:
 - Sonic Rivals (fix graphics with slow effects disabled for speed), [ULES-00622]
 - Sonic Rivals 2 (fix graphics with slow effects disabled for speed), [ULES-00940]
 - Spider-Man: Friend or Foe (workarounds loading savedata loop), [ULUS-10318]
+- Tekken Dark Resurrection (removes in-game shaking), [ULUS-10139]
 - Test Drive Unlimited (remove ugly&slow effect), [ULUS-10249]
 - The Sims 2: Castaway (remove some infinite loops), [ULUS-10296], [ULES-00945]
 - Tokyo Mono Harashi: Karasu no Mori Gakuen Kitan(improve framerate), [NPJH-50215]
