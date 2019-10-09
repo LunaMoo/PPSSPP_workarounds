@@ -35,7 +35,7 @@ List of game workarounds currently included:
 - Kenka Bancho Badass Rumble(remove ugly barriers), [ULUS-10442]
 - Kenka Bancho 4: Ichinen Sensou(remove ugly barriers), [ULJS-00268]
 - Manhunt 2(Restore Colors, Destroy Brightness), [ULUS-10280]
-- Me & My Katamari (remove glitchy effect), [ULES-00339], [ULUS-10094]
+- Me & My Katamari (remove glitchy effect), [ULES-00339], [ULJS-19009], [ULUS-10094] + untested [ULJS-00033] and [NPJH-50141]
 - Medal of Honor Heroes 1 & 2 (fps), [ULUS-10141], [ULUS-10310]
 - Mega Man Powered Up (movement mods), [ULES-00307]
 - Metal Gear Solid: Peace Walker (simulates recruit discovery, Right Analog Aim with more control, some t-shirts), [ULUS-10509]

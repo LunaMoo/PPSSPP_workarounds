@@ -14,6 +14,14 @@ _L 0x2032D0B8 0x00002021
 _C0 Remove blur from cutscenes [Disable]
 _L 0xE0012021 0x0032D0B8
 _L 0x2032D0B8 0x34040006
+_S NPJH-50141
+_G Me & My Katamari
+_C0 Skip glitch
+_L 0xE0010000 0x0008B924
+_L 0x2008B924 0x00001821
+_C0 Skip glitch [Disable]
+_L 0xE0011821 0x0008B924
+_L 0x2008B924 0x90830000
 _S ULES-00339
 _G Me & My Katamari
 _C0 Skipdraw glitch
@@ -22,6 +30,22 @@ _L 0x2008CED0 0x00001821
 _C0 Skipdraw glitch [Disable]
 _L 0xE0011821 0x0008CED0
 _L 0x2008CED0 0x90830000
+_S ULJS-00033
+_G Me & My Katamari
+_C0 Skip glitch
+_L 0xE0010000 0x0008B924
+_L 0x2008B924 0x00001821
+_C0 Skip glitch [Disable]
+_L 0xE0011821 0x0008B924
+_L 0x2008B924 0x90830000
+_S ULJS-19009
+_G Me & My Katamari
+_C0 Skip glitch
+_L 0xE0010000 0x0008B924
+_L 0x2008B924 0x00001821
+_C0 Skip glitch [Disable]
+_L 0xE0011821 0x0008B924
+_L 0x2008B924 0x90830000
 _S ULUS-10094
 _G Me & My Katamari
 _C0 Skip glitch
