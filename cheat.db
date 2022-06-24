@@ -1313,6 +1313,13 @@ _L 0xE00114A0 0x0005A416
 _L 0x2005A414 0x10000029
 _C0 Instant Movement [Disable]
 _L 0x2005A414 0x14A00029
+_S ULUS-10068
+_G Mega Man Maverick Hunter X
+_C0 Instant Movement
+_L 0xE00114A0 0x0003D132
+_L 0x2003D130 0x10000013
+_C0 Instant Movement [Disable]
+_L 0x2003D130 0x14A00013
 _S ULUS-10107
 _G Valkyrie Profile: Lenneth
 _C0 Credits Movie Freeze workaround

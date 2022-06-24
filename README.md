@@ -38,6 +38,7 @@ List of game workarounds currently included:
 - Me & My Katamari (remove glitchy effect), [ULES-00339], [ULJS-19009], [ULUS-10094] + untested [ULJS-00033] and [NPJH-50141]
 - Medal of Honor Heroes 1 & 2 (fps), [ULUS-10141], [ULUS-10310]
 - Mega Man Powered Up (movement mods), [ULES-00307]
+- Mega Man Maverick Hunter X (movement mod), [ULUS-10068]
 - Metal Gear Solid: Peace Walker (simulates recruit discovery, Right Analog Aim with more control, some t-shirts), [ULUS-10509]
 - Metal Gear Solid: Peace Walker (Right Analog Aim with more control), [ULES-01372]
 - Mighty Flip Champs DX (set volume to max), [NPUZ-00238]
