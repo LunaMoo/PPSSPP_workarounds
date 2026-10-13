@@ -51,6 +51,7 @@ List of game workarounds currently included:
 - n+ (drop down volume to hearable levels), [ULUS-10340]
 - Ore no Dungeon (hide some glitchy graphics), [ULJM-05167]
 - Patapon 3 (synchronize savedata with savestate made earlier), [UCUS-98751]
+- Resistance Retribution (Plus / Infected modes), [UCUS-98668]
 - Sakura Taisen 1 & 2 (remove some effects which can eat ~ 6gb of vram), [ULJM-05109]
 - Samurai Shodown Anthology (remove magnification filter glitching SSVI), [ULUS-10401]
 - San Goku Shi IX with Power-Up Kit (black background fix), [ULJM-05842]
